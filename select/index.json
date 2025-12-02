@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "TEIHEN",
+  "base_artist": "ZOT on the WAVE",
+  "createdAt": "2025-12-02T08:01:41.205801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TEIHEN (feat. YZERR & Candee)",
+      "artist": "ZOT on the WAVE",
+      "has_synced": false,
+      "path": "select/01_TEIHEN_(feat._YZERR_&_Candee)_ZOT_on_the_WAVE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TEIHEN (feat. YZERR & Candee)",
+      "artist": "Zot On The Wave",
+      "has_synced": false,
+      "path": "select/02_TEIHEN_(feat._YZERR_&_Candee)_Zot_On_The_Wave.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEIHEN (feat. YZERR & Candee)",
+      "artist": "ZOT on the WAVE",
+      "has_synced": false,
+      "path": "select/pl_01_TEIHEN_(feat._YZERR_&_Candee)_ZOT_on_the_WAVE.txt"
+    }
+  ]
+}
